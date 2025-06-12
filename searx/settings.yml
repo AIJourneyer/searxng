@@ -79,6 +79,7 @@ search:
     - html
     - json
 
+#test
 server:
   # Is overwritten by ${SEARXNG_PORT} and ${SEARXNG_BIND_ADDRESS}
   port: 8888
